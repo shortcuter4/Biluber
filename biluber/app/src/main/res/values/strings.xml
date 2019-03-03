@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Biluber</string>
+    <color name="blue">#0e4f91</color>
+    <color name="backBlue">#B9DEF7</color>
+
+    <string name="title_activity_driver_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="route_distance">Distance</string>
+    <string name="route_distance_value">40.2 Km</string>
+    <string name="route_duration">Duration</string>
+    <string name="route_duration_value">48 mins</string>
+    <string name="server_error">Server error. Something when wrong with the server</string>
+</resources>

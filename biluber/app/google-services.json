@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "869491330028",
+    "firebase_url": "https://biluberapp.firebaseio.com",
+    "project_id": "biluberapp",
+    "storage_bucket": "biluberapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869491330028:android:bbe608fbb657afa0",
+        "android_client_info": {
+          "package_name": "com.subhan.biluber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869491330028-ci6cb9fe75t3icc7mkqne7pue529jsok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subhan.biluber",
+            "certificate_hash": "1a727ca7cb82ae461016add27c83b6805950cd0d"
+          }
+        },
+        {
+          "client_id": "869491330028-d8iur0frovgr24ha63gn295cggk8sjdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPmihZY1WGzqmmW-j9Cd81zknLXrYbec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869491330028-d8iur0frovgr24ha63gn295cggk8sjdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869491330028:android:27ef97fcf552a5b5",
+        "android_client_info": {
+          "package_name": "com.example.selimcan.biluber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869491330028-8occ0jbojfkd58npckmv4nlkplv538l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.selimcan.biluber",
+            "certificate_hash": "07feff8b26d20401e85ae9a51a5f6e4feaec5936"
+          }
+        },
+        {
+          "client_id": "869491330028-d8iur0frovgr24ha63gn295cggk8sjdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPmihZY1WGzqmmW-j9Cd81zknLXrYbec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869491330028-d8iur0frovgr24ha63gn295cggk8sjdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869491330028:android:e73b1c8b945f0188",
+        "android_client_info": {
+          "package_name": "com.tccss.biluber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869491330028-f9jso3q6p1ju0724gls9mcu3jv8c41j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tccss.biluber",
+            "certificate_hash": "07feff8b26d20401e85ae9a51a5f6e4feaec5936"
+          }
+        },
+        {
+          "client_id": "869491330028-d8iur0frovgr24ha63gn295cggk8sjdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPmihZY1WGzqmmW-j9Cd81zknLXrYbec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869491330028-d8iur0frovgr24ha63gn295cggk8sjdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
